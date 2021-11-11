@@ -22,7 +22,7 @@ Json
 
 # Contributors
 
-Royal Burton and Donell Carter
+Philip Burton and Donell Carter
 
 # License
 
